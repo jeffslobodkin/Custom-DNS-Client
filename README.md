@@ -55,4 +55,3 @@ hw2.exe <domain-or-ip> <dns-server-ip>
 
 # Examples:
 hw2.exe www.google.com 8.8.8.8
-hw2.exe 128.194.138.19 128.194.135.85
